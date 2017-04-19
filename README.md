@@ -1,5 +1,27 @@
 # Opinionated Python3 only pytest Koans
 
+[![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+
+
+## TODO
+
+### Recreate test framework purely with pytest
+
+* use [hooks](https://docs.pytest.org/en/latest/_modules/_pytest/hookspec.html) to customize
+    * output
+    * order?
+
+### Port all tests
+
+... use pytest features
+
+### Modernize with new idioms
+
+fstrings and whatever ...
+
+----
+
+
 An interactive tutorial for learning Python3 with all the new bells and whistles by making tests pass.
 
 Grown from [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans).
