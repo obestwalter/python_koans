@@ -20,13 +20,7 @@ As well as being a great way to learn some Python, it is also a good way to get 
 
 ## Install Python 3.6+
 
-You need **Python 3.6 or newer** for this:
-
-    https://www.python.org/downloads/
-
-If you have problems making your first steps:
-
-    http://www.python.org/about/gettingstarted
+You need [**Python 3.6 or newer**](https://www.python.org/downloads/) for this. If you just get started with Python, have a look at [this](http://www.python.org/about/gettingstarted).
 
 ## Install the Koans
 
